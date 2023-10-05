@@ -1,7 +1,7 @@
-#include "SplitterComponent.h"
-#include "RenderComponent.h"
-#include "MovingComponent.h"
-#include "WrapAroundComponent.h"
+#include "Splitter.h"
+#include "SpriteRender.h"
+#include "Movement.h"
+#include "WrapAround.h"
 
 #include "Engine.h"
 

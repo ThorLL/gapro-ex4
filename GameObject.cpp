@@ -4,9 +4,9 @@
 
 #include "GameObject.h"
 #include "Component.h"
-#include "PlayerComponent.h"
-#include "MovingComponent.h"
-#include "SplitterComponent.h"
+#include "Component.h"
+#include "Movement.h.h"
+#include "Splitter.h"
 
 GameObject::GameObject(glm::dvec2 position, float radius, std::vector<Component*> components){
 	m_position = position;

@@ -1,14 +1,13 @@
 #pragma once
 
-#include "PlayerComponent.h"
-#include "RenderComponent.h"
+#include "Player.h"
+#include "SpriteRender.h"
 #include "GameObject.h"
-#include "MovingComponent.h"
+#include "Movement.h"
 
 #include "ScreenExitDestructor.h"
 #include "sre/SDLRenderer.hpp"
 #include "sre/SpriteAtlas.hpp"
-
 
 #include "Component.h"
 #include "GameObject.h"

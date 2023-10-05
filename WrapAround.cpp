@@ -1,4 +1,4 @@
-#include "WrapAroundComponent.h"
+#include "WrapAround.h"
 
 void WrapAroundComponent::Init(GameObject* parent)
 {

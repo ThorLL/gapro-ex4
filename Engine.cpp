@@ -7,11 +7,11 @@
 #include <random>
 #include <cmath>
 
-#include "SplitterComponent.h"
-#include "RenderComponent.h"
-#include "PlayerComponent.h"
-#include "ShootingComponent.h"
-#include "WrapAroundComponent.h"
+#include "Splitter.h"
+#include "SpriteRender.h"
+#include "Player.h"
+#include "Projectile.h"
+#include "WrapAround.h"
 
 Engine* Engine::GetInstance()
 {
